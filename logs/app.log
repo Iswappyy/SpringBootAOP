@@ -1,0 +1,34 @@
+2022-08-23 17:03:21,082 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:03:21,234 INFO c.p.w.LoggingAspect [main] Log-In done Successfully....
+ Well Come User..
+2022-08-23 17:03:21,236 INFO c.p.w.LoggingAspect [main] ********Add Items to the cart********
+2022-08-23 17:03:21,238 INFO c.p.w.LoggingAspect [main] Selected item list saved to cart successfully...
+2022-08-23 17:03:21,240 INFO c.p.w.LoggingAspect [main] ********Enter The User Details********
+2022-08-23 17:03:21,273 INFO c.p.w.LoggingAspect [main] User details enter Successfully...
+2022-08-23 17:03:21,275 INFO c.p.w.LoggingAspect [main] Select payment Mode..
+2022-08-23 17:03:21,282 INFO c.p.w.LoggingAspect [main] *******Payment Done Successfully..keep Shopping*******
+2022-08-23 17:03:48,990 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:03:49,067 INFO c.p.w.LoggingAspect [main] Log-In done Successfully....
+ Well Come User..
+2022-08-23 17:07:54,282 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:07:54,355 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-23 17:09:07,440 ERROR c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:09:07,508 ERROR c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-23 17:09:45,030 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:09:45,084 FATAL c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-23 17:10:27,824 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-23 17:10:27,886 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-23 17:10:27,888 INFO c.p.w.LoggingAspect [main] ********Add Items to the cart********
+2022-08-23 17:10:27,889 INFO c.p.w.LoggingAspect [main] Selected item list saved to cart successfully...
+2022-08-23 17:10:27,891 INFO c.p.w.LoggingAspect [main] ********Enter The User Details********
+2022-08-23 17:10:27,925 INFO c.p.w.LoggingAspect [main] User details enter Successfully...
+2022-08-23 17:10:27,927 INFO c.p.w.LoggingAspect [main] Select payment Mode..
+2022-08-23 17:10:27,934 INFO c.p.w.LoggingAspect [main] *******Payment Done Successfully..keep Shopping*******
+2022-08-24 09:08:56,910 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-24 09:10:17,311 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-24 09:10:17,354 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-24 09:11:42,040 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-24 09:12:53,452 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-24 09:12:53,470 INFO c.p.w.LoggingAspect [main] ********Enter The log-in Detils********
+2022-08-24 09:14:31,562 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
+2022-08-24 09:15:51,769 INFO c.p.w.LoggingAspect [main] Log-In done Successfully.... Well Come User..
